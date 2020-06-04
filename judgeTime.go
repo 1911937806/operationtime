@@ -1,6 +1,7 @@
 package operationtime
 
 import (
+	_ "github.com/WprideA/operationtime"
 	"time"
 )
 
